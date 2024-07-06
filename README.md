@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m @katycase<br>👀 I’m interested in full-stack web development, software engineering, and creating innovative digital solutions.<br>🌱 Full-stack developer in the making 🚀 | Actively learning and passionate about digital development 💻 | Open to collaborations and eager to contribute to exciting projects 🌟<br>💞️ I’m looking to collaborate on open-source web development projects or connect with fellow students and professionals who share my passion for technology.<br>📫 How to reach me => Feel free to connect with me here or drop me a message at emptyjung18@gmail.com . Let's talk code and build amazing things together! 💻🚀</h2>
+<h4 align="left">👋 Hi, I’m @katycase<br>👀 I’m interested in full-stack web development, software engineering, and creating innovative digital solutions.<br>🌱 Full-stack developer in the making 🚀 | Actively learning and passionate about digital development 💻 | Open to collaborations and eager to contribute to exciting projects 🌟<br>💞️ I’m looking to collaborate on open-source web development projects or connect with fellow students and professionals who share my passion for technology.<br>📫 How to reach me => Feel free to connect with me here or drop me a message at emptyjung18@gmail.com . Let's talk code and build amazing things together! 💻🚀</h4>
 
 ###
 
@@ -54,10 +54,3 @@
 <div align="left">
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=katycase" alt="Layout with last medium posts"  />
-</div>
-
-###
